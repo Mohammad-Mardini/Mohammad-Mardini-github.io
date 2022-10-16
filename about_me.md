@@ -6,7 +6,6 @@ layout: page
 
 I'm a post-doc in the University of Tokyo, the Kavli Institute for the Physics and Mathematics of the Universe ([IPMU](https://www.ipmu.jp)). 
 
-My research focuses on identifying, spectroscopic follow-up, detailed chemical abundance, and kinematics study of the oldest stars in our Galaxy and the Universe (CEMP, UMP, r-II stars). The photometric and spectroscopic analysis of these stars enables us to extract information about their formation, the evolution of the chemistry in the early Universe, initial mass function, and supernova yields. In addition, the coupling of the observed abundance patterns of these stars with kinematics derived from Gaia observations and results from cosmological simulations will enable us to study the Galactic assembly and chemical evolution in the early Universe.
+My research focuses on identifying, spectroscopic follow-up, detailed chemical abundance, and kinematics study of the oldest stars in our Galaxy. In principle, I use these stars to extract information about the properties of the first stars (e.g., initial mass function, chemical yields) to ultimately place constraint on the chemical enrichment of the early Galaxy.
 
-In general, my work ranges from large database manipulation (to select suitable targets for observation), statistical methods, preparing and executing observations, reducing and processing data, to the high-resolution spectral synthesis of absorption features in stellar spectra.
-
+Also, I use the positions, motions, and chemistry of ancient stars to detect chemodynamical fossil signatures, which are crucial to completely reconstruct the formation history of the Milky Way.
