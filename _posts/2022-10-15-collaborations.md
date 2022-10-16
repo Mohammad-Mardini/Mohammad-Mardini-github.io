@@ -7,13 +7,16 @@ categories: media
 
 This blog lists the major collaborations and my role in each of them 🚀 🚀
 
+[<img src="https://user-images.githubusercontent.com/35367221/196019919-07f9dc6d-766f-46f7-81ea-587e0587d867.png" width="200" height="200">](https://sites.google.com/view/rprocessalliance/meet-the-team?authuser=0)
+
+
 
 ## Prime Focus Spectrograph 
 
 
 ## R-process Alliance
 
-([The R-Process Alliance]([https://sites.google.com/view/rprocessalliance/meet-the-team?authuser=0]))
+The R-Process Alliance ([RPA](https://sites.google.com/view/rprocessalliance/meet-the-team?authuser=0))
 
 
-[<img src="https://user-images.githubusercontent.com/35367221/196019919-07f9dc6d-766f-46f7-81ea-587e0587d867.png">](https://sites.google.com/view/rprocessalliance/meet-the-team?authuser=0)
+
