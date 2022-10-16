@@ -13,8 +13,7 @@ My research focuses on identifying, spectroscopic follow-up, detailed chemical a
 
 
 <p>
-    <img align="left" src="https://user-images.githubusercontent.com/35367221/196015334-df72fbf0-89bf-48c7-9c13-7231a6547304.JPG" width="300" height="300" alt>
+    <img align="left" src="https://user-images.githubusercontent.com/35367221/196015334-df72fbf0-89bf-48c7-9c13-7231a6547304.JPG" width="600" height="600" alt>
     <em> Credit photograph: Tamara Salah (my soul mate)</em>
 </p>
-
 
