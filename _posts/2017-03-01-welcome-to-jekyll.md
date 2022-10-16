@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Mohammad"
+title: "Welcome to Mohammad's personal website"
 layout: post
 ---
 
