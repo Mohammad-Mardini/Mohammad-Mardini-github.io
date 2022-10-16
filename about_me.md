@@ -17,7 +17,30 @@ My research focuses on identifying, spectroscopic follow-up, detailed chemical a
 </p> 
     
     
-    
-Credit photograph:    
-Tamara Salah (my soul mate)</em>
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+**Credit photograph: Tamara Salah (my soul mate)**
 
