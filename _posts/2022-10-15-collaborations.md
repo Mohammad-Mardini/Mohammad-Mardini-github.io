@@ -13,4 +13,7 @@ This blog lists the major collaborations and my role in each of them 🚀 🚀
 
 ## R-process Alliance
 
-https://sites.google.com/view/rprocessalliance/meet-the-team?authuser=0
+([The R-Process Alliance]([https://www.ipmu.jp](https://sites.google.com/view/rprocessalliance/meet-the-team?authuser=0)))
+
+
+
