@@ -1,5 +1,5 @@
 ---
-title:  "The ORIENT is on GitHub now. Enjoy!!"
+title:  "The ORIENT is available on GitHub. Enjoy!!"
 mathjax: true
 layout: post
 categories: media
