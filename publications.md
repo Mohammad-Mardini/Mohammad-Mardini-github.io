@@ -6,6 +6,13 @@ categories: media
 ---
 
 
+
+7. [Physical and Dynamical Parameters of the Triple Stellar System: HIP 109951](https://ui.adsabs.harvard.edu/abs/2019AstBu..74..464M/abstract)
+\
+Masda, S. G.;  Docobo, J. A.;  Hussein, A. M.;  **Mardini, Mohammad K**;  Al-Ameryeen, H. A.;  Campo, P. P.;  Khan, A. R.; Pathan, J. M.
+
+
+
 6. [The regular dynamics through the finite-time Lyapunov exponent distributions in 3D Hamiltonian systems](https://ui.adsabs.harvard.edu/abs/2019AN....340..847T/abstract)
 \
 Taani, Ali; Abushattal, Ahmad; **Mardini, Mohammad K**.
