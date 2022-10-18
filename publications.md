@@ -1,5 +1,5 @@
 ---
-title: "Publications (Google Scholar: 170 citations / h-index = 9 / i10-index = 9)"
+title: "Publications (Google Scholar: 170 citations/h-index = 9/i10-index = 9)"
 permalink: "/publication/"
 layout: page
 categories: media
