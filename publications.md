@@ -6,7 +6,19 @@ categories: media
 ---
 
 
+6. [The regular dynamics through the finite-time Lyapunov exponent distributions in 3D Hamiltonian systems](https://ui.adsabs.harvard.edu/abs/2019AN....340..847T/abstract)
+\
+Taani, Ali; Abushattal, Ahmad; **Mardini, Mohammad K**.
 
+
+5. [On the wind accretion model of GX 301-2](https://ui.adsabs.harvard.edu/abs/2019JPhCS1258a2029T/abstract)
+\
+Taani, Ali; Karino, Shigeyuki; Song, Liming; **Mardini, Mohammad K.**; Al-Wardat, Mashhoor; Abushattal, Ahmad; Khasawneh, Awni; Al-Naimiy, Hamid
+
+
+4. [The Nucleosynthesis and Reaction Rates of Fluorine 19 in the Sun](https://ui.adsabs.harvard.edu/abs/2019JPhCS1258a2024M/abstract)
+\
+**Mardini, Mohammad K.**; Ershiadat, Nidal; Al-Wardat, Mashhoor A.; Taani, Ali A.; Özdemir, Sergen; Al-Naimiy, Hamid; Khasawneh, Awni
 
 3. [Metal-poor Stars Observed with the Automated Planet Finder Telescope. II. Chemodynamical Analysis of Six Low-metallicity Stars in the Halo System of the Milky Way](https://ui.adsabs.harvard.edu/abs/2019ApJ...882...27M/abstract)
 \
