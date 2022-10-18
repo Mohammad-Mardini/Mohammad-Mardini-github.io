@@ -6,6 +6,21 @@ categories: media
 ---
 
 
+15. [Stellar Metallicities from SkyMapper Photometry. II. Precise Photometric Metallicities of ∼280,000 Giant Stars with [Fe/H] < -0.75 in the Milky Way](https://ui.adsabs.harvard.edu/abs/2021ApJS..254...31C/abstract)
+\
+Chiti, Anirudh; Frebel, Anna; **Mardini, Mohammad K**; Daniel, Tatsuya W.; Ou, Xiaowei; Uvarova, Anastasiia V.
+
+
+14. [Metal-poor stars observed with the automated planet finder telescope. III. CEMP-no stars are the descendant of population III stars](https://ui.adsabs.harvard.edu/abs/2021AN....342..625A/abstract)
+\
+Almusleh, Nour Aldein; Taani, Ali; Özdemir, Sergen; Rah, Maria; Al-Wardat, Mashhoor A.; Zhao, Gang; **Mardini, Mohammad K**
+
+
+13. [The Metal-poor Metallicity Distribution of the Ancient Milky Way](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..23C/abstract)
+\
+Chiti, Anirudh; **Mardini, Mohammad K**; Frebel, Anna; Daniel, Tatsuya
+
+
 
 12. [Precise Masses, Ages, and Orbital Parameters of the Binary Systems HIP 11352, HIP 70973, and HIP 72479](https://ui.adsabs.harvard.edu/abs/2021AstBu..76...71A/abstract)
 \
