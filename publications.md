@@ -6,6 +6,12 @@ categories: media
 ---
 
 
+16. [Physical and geometrical parameters of CVBS XIV: the two nearby systems HIP 19206 and HIP 84425](https://ui.adsabs.harvard.edu/abs/2021RAA....21..161A/abstract)
+\
+Al-Wardat, Mashhoor A.; Abu-Alrob, Enas; Hussein, Abdallah M.; **Mardini, Mohammad K**; Taani, Ali A.; Widyan, Hatem S.; Yousef, Zahraa T.; Al-Naimiy, Hamid M.; Yusuf, Nihad A.
+
+
+
 15. [Stellar Metallicities from SkyMapper Photometry. II. Precise Photometric Metallicities of ∼280,000 Giant Stars with [Fe/H] < -0.75 in the Milky Way](https://ui.adsabs.harvard.edu/abs/2021ApJS..254...31C/abstract)
 \
 Chiti, Anirudh; Frebel, Anna; **Mardini, Mohammad K**; Daniel, Tatsuya W.; Ou, Xiaowei; Uvarova, Anastasiia V.
