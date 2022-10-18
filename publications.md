@@ -6,6 +6,30 @@ categories: media
 ---
 
 
+
+21. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv220501740C/abstract)
+\
+Chiti, Anirudh; Frebel, Anna; Ji, Alexander P.; **Mardini, Mohammad K**; Ou, Xiaowei; Simon, Joshua D.; Rasmussen, Kaitlin C.; Jerjen, Helmut; Kim, Dongwon; Norris, John E.
+
+20. [Chemo-Dynamically Tagged Groups of CEMP Stars in the Halo of the Milky Way. I. Untangling the Origins of CEMP-s and CEMP-no Stars](https://ui.adsabs.harvard.edu/abs/2022arXiv220912224Z/abstract)
+\
+Zepeda, Joseph; Beers, Timothy C.; Placco, Vinicius M.; Shank, Derek; Gudin, Dmitrii; Hirai, Yutaka; **Mardini, Mohammad K**; Pifer, Colin; Catapano, Thomas; Calagna, Sean
+
+19. [The chemical abundance pattern of the extremely metal-poor thin disk star 2MASS J1808-5104 and its origins](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2594M/abstract)
+\
+**Mardini, Mohammad K**; Frebel, Anna; Ezzeddine, Rana; Chiti, Anirudh; Meiron, Yohai; Ji, Alexander P.; Placco, Vinicius M.; Roederer, Ian U.; Meléndez, Jorge
+
+18. [Possibilities and Limitations of Kinematically Identifying Stars from Accreted Ultra-faint Dwarf Galaxies](https://ui.adsabs.harvard.edu/abs/2022ApJ...937...14B/abstract)
+\
+Brauer, Kaley; Andales, Hillary Diane; Ji, Alexander P.; Frebel, Anna; **Mardini, Mohammad K**; Gómez, Facundo A.; O'Shea, Brian W.
+
+
+17. [The Atari Disk, a Metal-poor Stellar Population in the Disk System of the Milky Way](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...78M/abstract)
+\
+**Mardini, Mohammad K**; Frebel, Anna; Chiti, Anirudh; Meiron, Yohai; Brauer, Kaley V.; Ou, Xiaowei
+
+
+
 16. [Physical and geometrical parameters of CVBS XIV: the two nearby systems HIP 19206 and HIP 84425](https://ui.adsabs.harvard.edu/abs/2021RAA....21..161A/abstract)
 \
 Al-Wardat, Mashhoor A.; Abu-Alrob, Enas; Hussein, Abdallah M.; **Mardini, Mohammad K**; Taani, Ali A.; Widyan, Hatem S.; Yousef, Zahraa T.; Al-Naimiy, Hamid M.; Yusuf, Nihad A.
