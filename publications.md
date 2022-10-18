@@ -6,6 +6,20 @@ categories: media
 ---
 
 
+10. [Formation and Evolution of Ultraluminous X-Ray Pulsar Binaries to Pulsar-Neutron Star and Pulsar-White Dwarf Systems](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..125A/abstract)
+\
+Abdusalam, K.; Ablimit, Iminhaji; Hashim, P.; Lü, G. -L.; **Mardini, Mohammad K**;; Wang, Z. -J.
+
+
+9. [The R-process Alliance: The Peculiar Chemical Abundance Pattern of RAVE J183013.5-455510](https://ui.adsabs.harvard.edu/abs/2020ApJ...897...78P/abstract)
+\
+Placco, Vinicius M.; Santucci, Rafael M.; Yuan, Zhen; **Mardini, Mohammad K**; Holmbeck, Erika M.; Wang, Xilu; Surman, Rebecca; Hansen, Terese T.; Roederer, Ian U.; Beers, Timothy C.; Choplin, Arthur; Ji, Alexander P.; Ezzeddine, Rana; Frebel, Anna; Sakari, Charli M.; Whitten, Devin D.; Zepeda, Joseph
+
+
+8. [Probability Distribution of Magnetic Field Strengths through the Cyclotron Lines in High-Mass X-ray Binaries](https://ui.adsabs.harvard.edu/abs/2020arXiv200203011T/abstract)
+\
+Taani, Ali; Khasawneh, Awni; **Mardini, Mohammad K**; Abushattal, Ahmad; Al-Wardat, Mashhoor
+
 
 7. [Physical and Dynamical Parameters of the Triple Stellar System: HIP 109951](https://ui.adsabs.harvard.edu/abs/2019AstBu..74..464M/abstract)
 \
