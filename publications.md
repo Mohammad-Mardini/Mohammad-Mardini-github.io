@@ -6,6 +6,11 @@ categories: media
 ---
 
 
+11. [Cosmological Insights into the Early Accretion of r-process-enhanced Stars. I. A Comprehensive Chemodynamical Analysis of LAMOST J1109+0754](https://ui.adsabs.harvard.edu/abs/2020ApJ...903...88M/abstract)
+\
+**Mardini, Mohammad K**; Placco, Vinicius M.; Meiron, Yohai; Ishchenko, Marina; Avramov, Branislav; Mazzarini, Matteo; Berczik, Peter; Arca Sedda, Manuel; Beers, Timothy C.; Frebel, Anna; Taani, Ali; Donnari, Martina; Al-Wardat, Mashhoor A.; Zhao, Gang
+
+
 10. [Formation and Evolution of Ultraluminous X-Ray Pulsar Binaries to Pulsar-Neutron Star and Pulsar-White Dwarf Systems](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..125A/abstract)
 \
 Abdusalam, K.; Ablimit, Iminhaji; Hashim, P.; Lü, G. -L.; **Mardini, Mohammad K**;; Wang, Z. -J.
