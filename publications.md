@@ -6,6 +6,13 @@ categories: media
 ---
 
 
+
+12. [Precise Masses, Ages, and Orbital Parameters of the Binary Systems HIP 11352, HIP 70973, and HIP 72479](https://ui.adsabs.harvard.edu/abs/2021AstBu..76...71A/abstract)
+\
+Al-Tawalbeh, Y. M.; Hussein, A. M.; Taani, A. A.; Abushattal, A. A.; Yusuf, N. A.; **Mardini, Mohammad K**; Suleiman, F. A.; Al-Naimiy, H. M.; Khasawneh, A. M.; Al-Wardat, M. A. 
+
+
+
 11. [Cosmological Insights into the Early Accretion of r-process-enhanced Stars. I. A Comprehensive Chemodynamical Analysis of LAMOST J1109+0754](https://ui.adsabs.harvard.edu/abs/2020ApJ...903...88M/abstract)
 \
 **Mardini, Mohammad K**; Placco, Vinicius M.; Meiron, Yohai; Ishchenko, Marina; Avramov, Branislav; Mazzarini, Matteo; Berczik, Peter; Arca Sedda, Manuel; Beers, Timothy C.; Frebel, Anna; Taani, Ali; Donnari, Martina; Al-Wardat, Mashhoor A.; Zhao, Gang
