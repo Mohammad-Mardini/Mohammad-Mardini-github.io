@@ -5,12 +5,10 @@ layout: post
 categories: media
 ---
 
+![orbits_orient](https://user-images.githubusercontent.com/35367221/196461488-e5d9bcaa-a275-4f60-bbb9-1f71a7dd53e0.jpg)
+
+
+
 The ORIENT (cOsmologically deRIved timE-varyiNg Galactic poTential) is a library for integrating trajectories in time-varying gravitational potentials, derived from Milky Way analogues selected from the [Illustris-TNG simulation](https://www.tng-project.org).
 
 
-
-
-
-
-
-![Flower](https://user-images.githubusercontent.com/35367221/196455753-ea951422-6c90-4f79-bf13-39963f983a88.mp4)
