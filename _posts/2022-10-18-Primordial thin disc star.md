@@ -1,5 +1,5 @@
 ---
-title:  "2MASS J18082002−5104378"
+title:  "The most primitive thin disk star"
 mathjax: true
 layout: post
 categories: media
