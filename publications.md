@@ -5,7 +5,7 @@ layout: page
 categories: media
 ---
 
-
+* Google Scholar: 170 citations / h-index = 9/ i10-index = 9
 
 21. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv220501740C/abstract)
 \
