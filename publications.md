@@ -1,5 +1,6 @@
 ---
-title: "[Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 170 citations/h-index = 9/i10-index = 9)"
+title: "Google Scholar: 170 citations / h-index = 9/ i10-index = 9)"
+title: "Google Scholar: 170 citations / h-index = 9/ i10-index = 9)"
 permalink: "/publication/"
 layout: page
 categories: media
