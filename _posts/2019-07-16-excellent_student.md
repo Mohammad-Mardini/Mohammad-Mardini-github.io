@@ -1,4 +1,3 @@
-
 ---
 title:  "The Excellent PhD student for 2019!!"
 mathjax: true
