@@ -39,5 +39,5 @@ My research focuses on identifying, spectroscopic follow-up, detailed chemical a
 \
 **Teaching students about globular clusters**
 
-**Credit photograph: Tamara Salah (my life pillars)**
+**Credit photograph: Tamara Salah**
 
