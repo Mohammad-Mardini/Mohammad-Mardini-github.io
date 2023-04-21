@@ -7,6 +7,10 @@ categories: media
 
 * [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 22 papers (6 first author) 249 citations / h-index = 10/ i10-index = 10
 
+21. [Studying the Physical Parameters of the Stellar Binary System Hip 42455 (HD 73900)](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+\
+Abu-Dhaim, A.;  Taani, A.;  Tanineah, D.;  Tamimi, N.;  **Mardini, Mohammad K**;  Al-Wardat, M.
+
 21. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv220501740C/abstract)
 \
 Chiti, Anirudh; Frebel, Anna; Ji, Alexander P.; **Mardini, Mohammad K**; Ou, Xiaowei; Simon, Joshua D.; Rasmussen, Kaitlin C.; Jerjen, Helmut; Kim, Dongwon; Norris, John E.
