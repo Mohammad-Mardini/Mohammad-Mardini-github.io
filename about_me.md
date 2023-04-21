@@ -37,5 +37,6 @@ My research focuses on identifying, spectroscopic follow-up, detailed chemical a
 \
 \
 \
+**During my astro intro class**
 **Credit photograph: Tamara Salah (my soul mate)**
 
