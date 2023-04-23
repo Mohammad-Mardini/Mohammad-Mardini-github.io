@@ -5,7 +5,17 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 22 papers (6 first author) 249 citations / h-index = 10/ i10-index = 10
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (7 first author) 250 citations / h-index = 10/ i10-index = 10
+
+24. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+\
+**Mardini, Mohammad K**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
+
+
+23. [Chemical abundance analysis of metal-poor stars with low neutron-capture element abundances and their potential origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+\
+Hillary Diane Andales; Ananda Santos Figueiredo; Casey Gordon Fienberg; **Mardini, Mohammad K**; Anna Frebel.
+
 
 22. [Studying the Physical Parameters of the Stellar Binary System Hip 42455 (HD 73900)](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
 \
