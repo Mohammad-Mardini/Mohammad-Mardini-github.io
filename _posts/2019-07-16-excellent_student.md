@@ -1,5 +1,5 @@
 ---
-title:  "The Excellent PhD student for 2019!!"
+title:  "Winning the Excellent PhD Student Award for 2019!!"
 mathjax: true
 layout: post
 categories: media
