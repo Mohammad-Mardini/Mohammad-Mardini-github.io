@@ -1,5 +1,5 @@
 ---
-title:  "The most primitive thin disk star"
+title:  "Discovering the First Primordial Thin Disk Star"
 mathjax: true
 layout: post
 categories: media
