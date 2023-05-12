@@ -1,5 +1,5 @@
 ---
-title:  "Atari disk"
+title:  "Characterization of the Atari disk"
 mathjax: true
 layout: post
 categories: media
