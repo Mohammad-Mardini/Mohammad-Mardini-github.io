@@ -7,7 +7,7 @@ categories: media
 
 * [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (7 first author) 274 citations / h-index = 10/ i10-index = 11
 
-24. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+24. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
 **Mardini, Mohammad K**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
 
