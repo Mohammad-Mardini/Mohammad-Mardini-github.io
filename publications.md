@@ -5,7 +5,7 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (7 first author) 293 citations / h-index = 12/ i10-index = 12
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (7 first author) 297 citations / h-index = 12/ i10-index = 12
 
 24. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
