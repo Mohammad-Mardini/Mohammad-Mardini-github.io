@@ -5,15 +5,20 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (8 first author) 314 citations / h-index = 12/ i10-index = 12
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 26 papers (8 first author) 314 citations / h-index = 12/ i10-index = 12
 
-25. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+26. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
 **Mardini, Mohammad K**; Anna Frebel; Chiti, Anirudh.
 
-24. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+25. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
 **Mardini, Mohammad K**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
+
+
+24. [Complete Analysis of the Subgiant Stellar system: HIP 102029](https://www.sciencedirect.com/science/article/pii/S0273117723005926)
+\
+Abdallah M. Hussein; Enas M. Abu-Alrob; **Mardini, Mohammad K**; Motasem J. Alslaihat; Mashhoor A. Al-Wardat
 
 
 23. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
