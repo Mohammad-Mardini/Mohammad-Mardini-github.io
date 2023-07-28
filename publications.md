@@ -5,7 +5,11 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (7 first author) 314 citations / h-index = 12/ i10-index = 12
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 24 papers (8 first author) 314 citations / h-index = 12/ i10-index = 12
+
+25. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+\
+**Mardini, Mohammad K**; Anna Frebel; Chiti, Anirudh.
 
 24. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
