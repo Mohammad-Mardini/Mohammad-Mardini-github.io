@@ -5,7 +5,7 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 26 papers (8 first author) 317 citations / h-index = 12/ i10-index = 12
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 26 papers (8 first author) 321 citations / h-index = 12/ i10-index = 13
 
 26. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
