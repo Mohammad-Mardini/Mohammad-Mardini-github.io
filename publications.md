@@ -9,12 +9,12 @@ categories: media
 
 28. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
-Placco, Vinicius M. ;  Almeida-Fernandes, Felipe ;  Holmbeck, Erika M. ;  Roederer, Ian U. ;  **Mardini, Mohammad K.** ; Hayes, Christian R. et al.
+Placco, Vinicius M. ;  Almeida-Fernandes, Felipe ;  Holmbeck, Erika M. ;  Roederer, Ian U. ;  **Mardini, Mohammad K.** et al.
 
 
 27. [Candidate Members of the VMP/EMP Disk System of the Galaxy from the SkyMapper and SAGES Surveys](https://ui.adsabs.harvard.edu/abs/2023arXiv231102297H/abstract)
 \
-Hong, Jihye ;  Beers, Timothy C. ;  Lee, Young Sun ;  Huang, Yang ;  Hirai, Yutaka ;  Cabrera Garcia, Jonathan ;  Shank, Derek ; Xu, Shuai ;  **Mardini, Mohammad K.** ;  Catapano, Thomas ;  Zhao, Gang ;  Fan, Zhou ;  Zheng, Jie ;  Wang, Wei ;  Tan, Kefeng ; Zhao, Jingkun ;  Li, Chun
+Hong, Jihye ;  Beers, Timothy C. ;  Lee, Young Sun ;  Huang, Yang ;  Hirai, Yutaka ;  Cabrera Garcia, Jonathan ;  Shank, Derek ; Xu, Shuai ;  **Mardini, Mohammad K.** et al.
 
 
 26. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
