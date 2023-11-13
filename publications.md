@@ -7,6 +7,16 @@ categories: media
 
 * [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 26 papers (8 first author) 362 citations / h-index = 12/ i10-index = 15
 
+28. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+\
+Placco, Vinicius M. ;  Almeida-Fernandes, Felipe ;  Holmbeck, Erika M. ;  Roederer, Ian U. ;  **Mardini, Mohammad K.** ; Hayes, Christian R. et al.
+
+
+27. [Candidate Members of the VMP/EMP Disk System of the Galaxy from the SkyMapper and SAGES Surveys](https://ui.adsabs.harvard.edu/abs/2023arXiv231102297H/abstract)
+\
+Hong, Jihye ;  Beers, Timothy C. ;  Lee, Young Sun ;  Huang, Yang ;  Hirai, Yutaka ;  Cabrera Garcia, Jonathan ;  Shank, Derek ; Xu, Shuai ;  **Mardini, Mohammad K.** ;  Catapano, Thomas ;  Zhao, Gang ;  Fan, Zhou ;  Zheng, Jie ;  Wang, Wei ;  Tan, Kefeng ; Zhao, Jingkun ;  Li, Chun
+
+
 26. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
 **Mardini, Mohammad K.**; Anna Frebel; Chiti, Anirudh.
@@ -14,7 +24,6 @@ categories: media
 25. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
 **Mardini, Mohammad K.**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
-
 
 24. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
 \
