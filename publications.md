@@ -5,51 +5,85 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 26 papers (8 first author) 362 citations / h-index = 12/ i10-index = 15
-
-28. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
-\
-Placco, Vinicius M. ;  Almeida-Fernandes, Felipe ;  Holmbeck, Erika M. ;  Roederer, Ian U. ;  **Mardini, Mohammad K.** et al.
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 32 papers (8 first author) 400 citations / h-index = 13/ i10-index = 17
 
 
-27. [Candidate Members of the VMP/EMP Disk System of the Galaxy from the SkyMapper and SAGES Surveys](https://ui.adsabs.harvard.edu/abs/2023arXiv231102297H/abstract)
-\
-Hong, Jihye ;  Beers, Timothy C. ;  Lee, Young Sun ;  Huang, Yang ;  Hirai, Yutaka ;  Cabrera Garcia, Jonathan ;  Shank, Derek ; Xu, Shuai ;  **Mardini, Mohammad K.** et al.
 
 
-26. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
-\
-**Mardini, Mohammad K.**; Anna Frebel; Chiti, Anirudh.
 
-25. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
-\
-**Mardini, Mohammad K.**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
 
-24. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+32. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529L..60M/abstract)
 \
 Hillary Diane Andales; Ananda Santos Figueiredo; Casey Gordon Fienberg; **Mardini, Mohammad K.**; Anna Frebel.
 
 
-23. [Complete Analysis of the Subgiant Stellar system: HIP 102029](https://www.sciencedirect.com/science/article/pii/S0273117723005926)
+31. [Strontium Nucleosynthesis at the Lowest Metallicity Regime](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529L..60M/abstract)
+\
+**Mardini, Mohammad K.**; Anna Frebel; Chiti, Anirudh.
+
+30. [Enrichment by Extragalactic First Stars in the Large Magellanic Cloud](https://ui.adsabs.harvard.edu/abs/2024arXiv240111307C/abstract)
+\
+Chiti, Anirudh; **Mardini, Mohammad K.**; Limberg, Guilherme ;  Frebel, Anna ;  Ji, Alexander P. ;  Reggiani, Henrique ; Ferguson, Peter ;  Andales, Hillary Diane ;  Brauer, Kaley ;  Li, Ting S. ;  Simon, Joshua D.
+
+
+
+29. [Complete Analysis of the Subgiant Stellar system: HIP 102029](https://www.sciencedirect.com/science/article/pii/S0273117723005926)
 \
 Abdallah M. Hussein; Enas M. Abu-Alrob; **Mardini, Mohammad K.**; Motasem J. Alslaihat; Mashhoor A. Al-Wardat
 
 
-22. [Studying the Physical Parameters of the Stellar Binary System Hip 42455 (HD 73900)](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+28. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
 \
-Abu-Dhaim, A.;  Taani, A.;  Tanineah, D.;  Tamimi, N.;  **Mardini, Mohammad K.**;  Al-Wardat, M.
+**Mardini, Mohammad K.**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
 
-21. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv220501740C/abstract)
+27. [Unraveling the Origins and Development of the Galactic Disk through Metal-Poor Stars](https://ui.adsabs.harvard.edu/abs/2023CoBAO..70..306R/abstract)
 \
-Chiti, Anirudh; Frebel, Anna; Ji, Alexander P.; **Mardini, Mohammad K.**; Ou, Xiaowei; Simon, Joshua D.; Rasmussen, Kaitlin C.; Jerjen, Helmut; Kim, Dongwon; Norris, John E.
+Rah, Maria ;  Yatman, Manolya ;  Taani, Ali ;  Abushattal, Ahmad A.;  **Mardini, Mohammad K.** et al.
 
-20. [Chemo-Dynamically Tagged Groups of CEMP Stars in the Halo of the Milky Way. I. Untangling the Origins of CEMP-s and CEMP-no Stars](https://ui.adsabs.harvard.edu/abs/2022arXiv220912224Z/abstract)
+
+26. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+\
+Placco, Vinicius M. ;  Almeida-Fernandes, Felipe ;  Holmbeck, Erika M. ;  Roederer, Ian U. ;  **Mardini, Mohammad K.** et al.
+
+
+25. [Candidate Members of the VMP/EMP Disk System of the Galaxy from the SkyMapper and SAGES Surveys](https://ui.adsabs.harvard.edu/abs/2023arXiv231102297H/abstract)
+\
+Hong, Jihye ;  Beers, Timothy C. ;  Lee, Young Sun ;  Huang, Yang ;  Hirai, Yutaka ;  Cabrera Garcia, Jonathan ;  Shank, Derek ; Xu, Shuai ;  **Mardini, Mohammad K.** et al.
+
+
+
+24. [Chemo-Dynamically Tagged Groups of CEMP Stars in the Halo of the Milky Way. I. Untangling the Origins of CEMP-s and CEMP-no Stars](https://ui.adsabs.harvard.edu/abs/2022arXiv220912224Z/abstract)
 \
 Zepeda, Joseph; Beers, Timothy C.; Placco, Vinicius M.; Shank, Derek; Gudin, Dmitrii; Hirai, Yutaka; **Mardini, Mohammad K.**; Pifer, Colin; Catapano, Thomas; Calagna, Sean
 
-19. [The chemical abundance pattern of the extremely metal-poor thin disk star 2MASS J1808-5104 and its origins](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2594M/abstract)
+
+23. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv220501740C/abstract)
+\
+Chiti, Anirudh; Frebel, Anna; Ji, Alexander P.; **Mardini, Mohammad K.**; Ou, Xiaowei; Simon, Joshua D.; Rasmussen, Kaitlin C.; Jerjen, Helmut; Kim, Dongwon; Norris, John E.
+
+
+22. [High resolution spectroscopy of chemically primitive stars in the outskirts of an ancient dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2023AAS...24144506C/abstract)
+\
+Chiti, Anirudh ;  Frebel, Anna ;  Simon, Joshua ;  Ji, Alexander ;  Erkal, Denis ;  Necib, Lina ;  Ou, Xiaowei ; **Mardini, Mohammad K.** ;  Jerjen, Helmut ;  Norris, John ;  Kim, Dongwon 
+
+
+21. [The Smallest Galaxies in the Milky Way's Assembly History and the Origin of Heavy Elements](https://ui.adsabs.harvard.edu/abs/2023AAS...24142002B/abstract)
+\
+Brauer, Kaley ;  Frebel, Anna ;  Ji, Alexander ;  Mead, Jennifer ;  Bryan, Greg ;  Wise, John ;  O'Shea, Brian ;  Gomez, Facundo ; **Mardini, Mohammad K.**
+
+
+
+
+20. [The chemical abundance pattern of the extremely metal-poor thin disk star 2MASS J1808-5104 and its origins](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2594M/abstract)
 \
 **Mardini, Mohammad K.**; Frebel, Anna; Ezzeddine, Rana; Chiti, Anirudh; Meiron, Yohai; Ji, Alexander P.; Placco, Vinicius M.; Roederer, Ian U.; Meléndez, Jorge
+
+
+19. [Studying the Physical Parameters of the Stellar Binary System Hip 42455 (HD 73900)](https://ui.adsabs.harvard.edu/abs/2022AcA....72..171A/abstract)
+\
+Abu-Dhaim, Anas. ;  Taani, Ali A.;  Tanineah, D. ;  Tamimi, N. ;  **Mardini, Mohammad K.** ; Al-Wardat, Mashhoor A.
+
+
 
 18. [Possibilities and Limitations of Kinematically Identifying Stars from Accreted Ultra-faint Dwarf Galaxies](https://ui.adsabs.harvard.edu/abs/2022ApJ...937...14B/abstract)
 \
