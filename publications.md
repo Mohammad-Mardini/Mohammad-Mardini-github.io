@@ -38,7 +38,7 @@ Abdallah M. Hussein; Enas M. Abu-Alrob; **Mardini, Mohammad K.**; Motasem J. Als
 
 27. [Unraveling the Origins and Development of the Galactic Disk through Metal-Poor Stars](https://ui.adsabs.harvard.edu/abs/2023CoBAO..70..306R/abstract)
 \
-Rah, Maria ;  Yatman, Manolya ;  Taani, Ali ;  Abushattal, Ahmad A.;  **Mardini, Mohammad K.** et al.
+Rah, Maria ;  Yatman, Manolya ;  Taani, Ali ;  Abushattal, Ahmad A.;  **Mardini, Mohammad K.**
 
 
 26. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
