@@ -10,7 +10,7 @@ categories: media
 
 33. [Signatures of tidal disruption of the Hercules ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2024arXiv240300921O/abstract)
 \
-Xiaowei Ou; Anirudh Chiti; Nora Shipp; Joshua D. Simon; Marla Geha; Anna Frebel; **Mardini, Mohammad K.**; Denis Erkal;Lina Necib.
+Xiaowei Ou; Anirudh Chiti; Nora Shipp; Joshua D. Simon; Marla Geha; Anna Frebel; **Mardini, Mohammad K.**; Denis Erkal; Lina Necib.
 
 
 32. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529L..60M/abstract)
@@ -24,7 +24,7 @@ Hillary Diane Andales; Ananda Santos Figueiredo; Casey Gordon Fienberg; **Mardin
 
 30. [Enrichment by Extragalactic First Stars in the Large Magellanic Cloud](https://ui.adsabs.harvard.edu/abs/2024arXiv240111307C/abstract)
 \
-Chiti, Anirudh; **Mardini, Mohammad K.**; Limberg, Guilherme ;  Frebel, Anna ;  Ji, Alexander P. ;  Reggiani, Henrique ; Ferguson, Peter ;  Andales, Hillary Diane ;  Brauer, Kaley ;  Li, Ting S. ;  Simon, Joshua D.
+Chiti, Anirudh; **Mardini, Mohammad K.**; Limberg, Guilherme ; Frebel, Anna ; Ji, Alexander P. ; Reggiani, Henrique ;Ferguson, Peter ; Andales, Hillary Diane ; Brauer, Kaley ;  Li, Ting S. ; Simon, Joshua D.
 
 
 
