@@ -5,11 +5,12 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 32 papers (8 first author) 400 citations / h-index = 13/ i10-index = 17
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 33 papers (8 first author) 438 citations / h-index = 14/ i10-index = 19
 
 
-
-
+33. [Signatures of tidal disruption of the Hercules ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2024arXiv240300921O/abstract)
+\
+Xiaowei Ou; Anirudh Chiti; Nora Shipp; Joshua D. Simon; Marla Geha; Anna Frebel; **Mardini, Mohammad K.**; Denis Erkal;Lina Necib.
 
 
 32. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529L..60M/abstract)
