@@ -5,7 +5,7 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 33 papers (8 first author) 438 citations / h-index = 14/ i10-index = 19
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 33 papers (8 first author) 441 citations / h-index = 14/ i10-index = 19
 
 
 33. [Signatures of tidal disruption of the Hercules ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2024arXiv240300921O/abstract)
