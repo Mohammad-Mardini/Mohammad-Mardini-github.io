@@ -5,15 +5,15 @@ layout: page
 categories: media
 ---
 
-* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 33 papers (8 first author) 441 citations / h-index = 14/ i10-index = 19
+* [Google Scholar](https://scholar.google.com/citations?user=jh7W9QEAAAAJ&hl=en): 33 papers (8 first author) 467 citations / h-index = 15/ i10-index = 19
 
 
-33. [Signatures of tidal disruption of the Hercules ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2024arXiv240300921O/abstract)
+33. [Signatures of tidal disruption of the Hercules ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...33O/abstract)
 \
 Xiaowei Ou; Anirudh Chiti; Nora Shipp; Joshua D. Simon; Marla Geha; Anna Frebel; **Mardini, Mohammad K.**; Denis Erkal; Lina Necib.
 
 
-32. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529L..60M/abstract)
+32. [The oldest stars with low neutron-capture element abundances and origins in ancient dwarf galaxies](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.4712A/abstract)
 \
 Hillary Diane Andales; Ananda Santos Figueiredo; Casey Gordon Fienberg; **Mardini, Mohammad K.**; Anna Frebel.
 
@@ -22,18 +22,17 @@ Hillary Diane Andales; Ananda Santos Figueiredo; Casey Gordon Fienberg; **Mardin
 \
 **Mardini, Mohammad K.**; Anna Frebel; Chiti, Anirudh.
 
-30. [Enrichment by Extragalactic First Stars in the Large Magellanic Cloud](https://ui.adsabs.harvard.edu/abs/2024arXiv240111307C/abstract)
+30. [Enrichment by Extragalactic First Stars in the Large Magellanic Cloud](https://ui.adsabs.harvard.edu/abs/2024NatAs.tmp...57C/abstract)
 \
 Chiti, Anirudh; **Mardini, Mohammad K.**; Limberg, Guilherme ; Frebel, Anna ; Ji, Alexander P. ; Reggiani, Henrique ;Ferguson, Peter ; Andales, Hillary Diane ; Brauer, Kaley ;  Li, Ting S. ; Simon, Joshua D.
 
 
-
-29. [Complete Analysis of the Subgiant Stellar system: HIP 102029](https://www.sciencedirect.com/science/article/pii/S0273117723005926)
+29. [Complete Analysis of the Subgiant Stellar system: HIP 102029](https://ui.adsabs.harvard.edu/abs/2024AdSpR..73.1103H/abstract)
 \
 Abdallah M. Hussein; Enas M. Abu-Alrob; **Mardini, Mohammad K.**; Motasem J. Alslaihat; Mashhoor A. Al-Wardat
 
 
-28. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+28. [Metal-poor stars observed with the Magellan Telescope. IV. Neutron-capture element signatures in 27 main-sequence stars](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2912M/abstract)
 \
 **Mardini, Mohammad K.**; Anna Frebel; Leyatt Betre; Heather Jacobson; John E. Norris; Norbert Christlieb.
 
@@ -42,7 +41,7 @@ Abdallah M. Hussein; Enas M. Abu-Alrob; **Mardini, Mohammad K.**; Motasem J. Als
 Rah, Maria ;  Yatman, Manolya ;  Taani, Ali ;  Abushattal, Ahmad A.;  **Mardini, Mohammad K.**
 
 
-26. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023arXiv230505363M/abstract)
+26. [SPLUS J142445.34-254247.1: An R-Process Enhanced, Actinide-Boost, Extremely Metal-Poor star observed with GHOST](https://ui.adsabs.harvard.edu/abs/2023ApJ...959...60P/abstract)
 \
 Placco, Vinicius M. ;  Almeida-Fernandes, Felipe ;  Holmbeck, Erika M. ;  Roederer, Ian U. ;  **Mardini, Mohammad K.** et al.
 
@@ -53,12 +52,12 @@ Hong, Jihye ;  Beers, Timothy C. ;  Lee, Young Sun ;  Huang, Yang ;  Hirai, Yuta
 
 
 
-24. [Chemo-Dynamically Tagged Groups of CEMP Stars in the Halo of the Milky Way. I. Untangling the Origins of CEMP-s and CEMP-no Stars](https://ui.adsabs.harvard.edu/abs/2022arXiv220912224Z/abstract)
+24. [Chemo-Dynamically Tagged Groups of CEMP Stars in the Halo of the Milky Way. I. Untangling the Origins of CEMP-s and CEMP-no Stars](https://ui.adsabs.harvard.edu/abs/2023ApJ...947...23Z/abstract)
 \
 Zepeda, Joseph; Beers, Timothy C.; Placco, Vinicius M.; Shank, Derek; Gudin, Dmitrii; Hirai, Yutaka; **Mardini, Mohammad K.**; Pifer, Colin; Catapano, Thomas; Calagna, Sean
 
 
-23. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2022arXiv220501740C/abstract)
+23. [Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy](https://ui.adsabs.harvard.edu/abs/2023AJ....165...55C/abstract)
 \
 Chiti, Anirudh; Frebel, Anna; Ji, Alexander P.; **Mardini, Mohammad K.**; Ou, Xiaowei; Simon, Joshua D.; Rasmussen, Kaitlin C.; Jerjen, Helmut; Kim, Dongwon; Norris, John E.
 
